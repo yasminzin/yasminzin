@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmin Zin</h1>
 <h3 align="center">a MEARN Stack Developer with a passion for building efficient, scalable, and user-friendly web applications. I thrive on solving problems, learning new technologies.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
