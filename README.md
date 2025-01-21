@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmin Zin</h1>
 <h3 align="center">a MEARN Stack Developer with a passion for building efficient, scalable, and user-friendly web applications. I thrive on solving problems, learning new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasminzin&label=Profile%20views&color=0e75b6&style=flat" alt="yasminzin" /> </p>
-
 - 🔭 I’m currently working at **the Information Technology Institute in Egypt**
 
 - 🌱 I’m currently learning **MEARN stack**
