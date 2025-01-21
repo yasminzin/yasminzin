@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmin Zin</h1>
-<h3 align="center">a MEARN Stack Developer with a passion for building efficient, scalable, and user-friendly web applications. I thrive on solving problems, learning new technologies.</h3>
+<h3 align="center">A MEARN Stack Developer with a passion for building efficient, scalable, and user-friendly web applications. I thrive on solving problems, learning new technologies.</h3>
 
 - 🔭 I’m currently working at **the Information Technology Institute in Egypt**
 
