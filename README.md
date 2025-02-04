@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **the Information Technology Institute in Egypt**
 
-- 🌱 I’m currently learning **MEARN stack**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 You can reach me via email at **yasminaymanzin@gmail.com**
 
